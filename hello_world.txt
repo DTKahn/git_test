@@ -1,1 +1,2 @@
 Some test content for the Odin git basics lesson
+testing out git config --global core.editor "code --wait"

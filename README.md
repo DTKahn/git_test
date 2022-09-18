@@ -1,3 +1,3 @@
 # git_test
-ODIN Git Bascis Lesson
+ODIN Git Basics Lesson
 Hello Odin!
